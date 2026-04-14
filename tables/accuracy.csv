@@ -1,0 +1,3 @@
+Model,Accuracy (%)
+Baseline CNN + Increased,66.56
+Baseline CNN + Increased + Padding + Batch Normalization,72.85

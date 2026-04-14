@@ -1,0 +1,21 @@
+Model,Epoch,Loss
+Baseline CNN + Increased,1,2.1269856850001116
+Baseline CNN + Increased,2,1.6776712164997827
+Baseline CNN + Increased,3,1.4699887011345578
+Baseline CNN + Increased,4,1.3413844171503913
+Baseline CNN + Increased,5,1.2365147807776584
+Baseline CNN + Increased,6,1.1468323069509603
+Baseline CNN + Increased,7,1.0722816634544254
+Baseline CNN + Increased,8,1.0073914508062987
+Baseline CNN + Increased,9,0.9521906418595951
+Baseline CNN + Increased,10,0.9028478186441703
+Baseline CNN + Increased + Padding + Batch Normalization,1,1.6059972167548962
+Baseline CNN + Increased + Padding + Batch Normalization,2,1.19291538713227
+Baseline CNN + Increased + Padding + Batch Normalization,3,1.0312048313866344
+Baseline CNN + Increased + Padding + Batch Normalization,4,0.9375899701605069
+Baseline CNN + Increased + Padding + Batch Normalization,5,0.8623789633151742
+Baseline CNN + Increased + Padding + Batch Normalization,6,0.8047131510285788
+Baseline CNN + Increased + Padding + Batch Normalization,7,0.7490909557386766
+Baseline CNN + Increased + Padding + Batch Normalization,8,0.7051877975845214
+Baseline CNN + Increased + Padding + Batch Normalization,9,0.6647532756368243
+Baseline CNN + Increased + Padding + Batch Normalization,10,0.6249838221153233

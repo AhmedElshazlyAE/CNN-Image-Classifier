@@ -1,0 +1,3 @@
+Model,Training Time (seconds)
+Baseline CNN + Increased,132.49
+Baseline CNN + Increased + Padding + Batch Normalization,130.89
