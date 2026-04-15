@@ -19,3 +19,13 @@ Baseline CNN + Increased + Padding + Batch Normalization,7,0.7490909557386766
 Baseline CNN + Increased + Padding + Batch Normalization,8,0.7051877975845214
 Baseline CNN + Increased + Padding + Batch Normalization,9,0.6647532756368243
 Baseline CNN + Increased + Padding + Batch Normalization,10,0.6249838221153233
+Baseline CNN + Increased + Padding + Batch Normalization + Dropout,1,1.65622518932827
+Baseline CNN + Increased + Padding + Batch Normalization + Dropout,2,1.2599965736260417
+Baseline CNN + Increased + Padding + Batch Normalization + Dropout,3,1.095783964342897
+Baseline CNN + Increased + Padding + Batch Normalization + Dropout,4,0.9924000190834319
+Baseline CNN + Increased + Padding + Batch Normalization + Dropout,5,0.927840619230606
+Baseline CNN + Increased + Padding + Batch Normalization + Dropout,6,0.8755400082619619
+Baseline CNN + Increased + Padding + Batch Normalization + Dropout,7,0.8311372373017148
+Baseline CNN + Increased + Padding + Batch Normalization + Dropout,8,0.7841839796445801
+Baseline CNN + Increased + Padding + Batch Normalization + Dropout,9,0.7514694346518983
+Baseline CNN + Increased + Padding + Batch Normalization + Dropout,10,0.7208031834277753

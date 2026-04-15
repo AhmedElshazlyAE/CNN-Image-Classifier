@@ -1,3 +1,4 @@
-Model,Accuracy (%)
-Baseline CNN + Increased,66.56
-Baseline CNN + Increased + Padding + Batch Normalization,72.85
+Model,Train Accuracy,Test Accuracy
+Baseline CNN + Increased,66.56,66.56
+Baseline CNN + Increased + Padding + Batch Normalization,73.34,73.34
+Baseline CNN + Increased + Padding + Batch Normalization  + Dropout,73.12,73.12
