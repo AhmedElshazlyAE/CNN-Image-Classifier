@@ -1,4 +1,4 @@
 Model,Train Accuracy,Test Accuracy
-Baseline CNN + Increased,66.56,66.56
-Baseline CNN + Increased + Padding + Batch Normalization,73.34,73.34
-Baseline CNN + Increased + Padding + Batch Normalization  + Dropout,73.12,73.12
+Baseline CNN + Increased,71.02,66.56
+Baseline CNN + Increased + Padding + Batch Normalization,80.85,73.34
+Baseline CNN + Increased + Padding + Batch Normalization  + Dropout,80.04,73.12
