@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CIFAR-10 Image Classifier</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <main class="page">
+        <section class="hero">
+            <div class="badge">ResNet-18 Transfer Learning</div>
+            <h1>CIFAR-10 Image Classifier</h1>
+            <p>
+                Upload an image and let the model classify it as airplane, automobile,
+                bird, cat, deer, dog, frog, horse, ship, or truck.
+            </p>
+        </section>
+
+        <section class="card">
+            <div id="drop-area" class="drop-area">
+                <input type="file" id="file-input" accept="image/*" hidden>
+
+                <div class="upload-content">
+                    <div class="upload-icon">📷</div>
+                    <h2>Place your image here</h2>
+                    <p>Drag and drop an image, or click to choose a file.</p>
+                    <button type="button" id="choose-btn">Choose Image</button>
+                </div>
+
+                <img id="preview-image" class="preview-image" alt="Image preview">
+            </div>
+
+            <button id="predict-btn" class="predict-btn" disabled>
+                Predict Image
+            </button>
+
+            <div id="loading" class="loading hidden">
+                Analyzing image...
+            </div>
+
+            <div id="result" class="result hidden">
+                <h2>Prediction Result</h2>
+                <div class="main-prediction">
+                    <span id="predicted-class"></span>
+                    <span id="confidence"></span>
+                </div>
+
+                <h3>Top 3 Predictions</h3>
+                <div id="top3-list" class="top3-list"></div>
+            </div>
+
+            <div id="error" class="error hidden"></div>
+        </section>
+    </main>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
