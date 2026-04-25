@@ -1,4 +1,4 @@
-# CNN Image Classifier
+# CIFAR10-Image-Classifier-ResNet-FastAPI
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-CNNs%20%26%20ResNet-ee4c2c)
@@ -379,8 +379,8 @@ Output:
 Clone the repository:
 
 ```bash
-git clone https://github.com/AhmedElshazlyAE/CNN-Image-Classifier.git
-cd CNN-Image-Classifier
+git clone https://github.com/AhmedElshazlyAE/CIFAR10-Image-Classifier-ResNet-FastAPI.git
+cd CIFAR10-Image-Classifier-ResNet-FastAPI
 ```
 
 Create a virtual environment:
