@@ -1,4 +1,4 @@
-# CNN Image Classifier
+# CIFAR10-Image-Classifier-ResNet-FastAPI
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-CNNs%20%26%20ResNet-ee4c2c)
