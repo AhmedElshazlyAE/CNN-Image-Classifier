@@ -17,11 +17,9 @@ data loading, transforms, CNN design, training loops, experiment tracking, model
 
 The app lets the user upload an image and returns the top predictions from the trained ResNet-18 model.
 
-> Add your web app screenshot here after you take one from the running app.
 
-```md
+
 ![Web App Demo](assets/web_app_demo.png)
-```
 
 The API returns:
 
